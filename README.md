@@ -131,7 +131,8 @@ This project helped AtliQ Grands:
 
 ---
 
-##🤝 Connect With Me
-🌐 LinkedIn: https://www.linkedin.com/in/asimahmedio
-💻 GitHub: https://github.com/asimahmedhub
-✉️ Email: asim.atia@gmail.com
+## 🤝 Connect With Me
+
+- 🌐 LinkedIn: [Asim Ahmed](https://www.linkedin.com/in/asimahmedio)  
+- 💻 GitHub: [asimahmedhub](https://github.com/asimahmedhub)  
+- ✉️ Email: **asim.atia@gmail.com**
